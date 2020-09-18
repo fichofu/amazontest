@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "outDir": "",
+    "removeComments": false,
+    "lib":["esnext"]
+  },
+  "exclude": [
+    "node_modules"
+
+  ]
+}
